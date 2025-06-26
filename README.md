@@ -14,5 +14,5 @@ by raindrops. So try your best not to get hit by one!
 You can hide where the screen wraps, but not for long! Raindrops can hit you there
 too!
 
-## Fun Fact 🎵
+## Disclaimer 🎵
 Background music was composed by me in FL Studio Mobile! Sound effects taken from memes, no copyright infringement intended. Any images that are not royalty free are for personal use only. This game is not for profit.
